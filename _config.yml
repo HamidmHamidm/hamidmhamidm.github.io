@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hamidreza"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "​Hi! I am Hamidreza Mohammadi Jozani. I earned my BSc degree in Electrical Engineering from K.N. Toosi University of Technology (KNTU) under the supervision of Dr. Hadi Aliakbarian. After that, I started a MSc in Electrical Engineering at the Iran University of Science and Technology (IUST) under the supervision of Dr. Shahriar Baradaran Shokouhi. I have been a research assistant in the machine vision lab at IUST, and my research interests are Deep learning,Machine learning,and Computer vision."
+  location         : "Tehran"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Hamidreza.mohammadi.j@gmail.com" 
 
   # Academic websites
   academia         : # URL
