@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Hamidreza"
   pronouns         : # example: "she/her"  
-  bio              : "​Hi! I am Hamidreza Mohammadi Jozani. I earned my BSc degree in Electrical Engineering from K.N. Toosi University of Technology (KNTU) under the supervision of Dr. Hadi Aliakbarian. After that, I started a MSc in Electrical Engineering at the Iran University of Science and Technology (IUST) under the supervision of Dr. Shahriar Baradaran Shokouhi. I have been a research assistant in the machine vision lab at IUST, and my research interests are Deep learning,Machine learning,and Computer vision."
+  bio              : "​"
   location         : "Tehran"
   employer         : ""
   uri              : # URL
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gCL-k1cAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://ir.linkedin.com/in/hamidreza-mohammadi-jozani-3ba72420b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
